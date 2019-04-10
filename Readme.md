@@ -28,7 +28,7 @@ These parsers read numeric data and allows to access data with respect to column
 
 |   |   |   |
 | - | - | - |
-| [SSC](https://github.com/sirehna/ssc) | [![GitHub license](https://img.shields.io/github/license/sirehna/ssc.svg)](https://github.com/sirehna/ssc/blob/master/LICENSE) | [![GitHub stars](https://img.shields.io/github/stars/sirehna/ssc.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sirehna/ssc) |
+| [SSC](https://github.com/sirehna/ssc) | [![GitHub license](https://img.shields.io/github/license/sirehna/ssc.svg)](https://github.com/sirehna/ssc/blob/master/LICENSE.md) | [![GitHub stars](https://img.shields.io/github/stars/sirehna/ssc.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sirehna/ssc) |
 
 ### Numerical CSV parsers
 
